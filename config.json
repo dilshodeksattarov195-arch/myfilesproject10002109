@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfrocess",
+        "uuid": 814074,
+        "checksum": "j2obzk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
